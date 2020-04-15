@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeViewPagerExample</string>
+    <string name="title_section1" >Lion</string>
+    <string name="title_section2" >Elephant</string>
+    <string name="title_section3" >Dinosaurs</string>
+
+</resources>
